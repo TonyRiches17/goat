@@ -744,12 +744,12 @@ const stats = {
     tstl: 1200, // Approximate as of end of 2024-25 season
     tblks: 1200, // Approximate as of end of 2024-25 season
     ttrn: 3300, // Approximate as of end of 2024-25 season
-    pppts: 6000, // Career playoff points (approx) [1.1.5/1.4.4]
-    ppreb: 1500, // Career playoff rebounds (approx)
-    ppast: 900, // Career playoff assists (approx)
-    ppstl: 200, // Career playoff steals (approx)
-    ppblks: 250, // Career playoff blocks (approx)
-    pptrn: 500, // Career playoff turnovers (approx)
+    ppts: 6000, // Career playoff points (approx) [1.1.5/1.4.4]
+    preb: 1500, // Career playoff rebounds (approx)
+    past: 900, // Career playoff assists (approx)
+    pstl: 200, // Career playoff steals (approx)
+    pblks: 250, // Career playoff blocks (approx)
+    ptrn: 500, // Career playoff turnovers (approx)
     per: 25.1, // Career average
     tripdoub: 18, // Career total (approx)
     quaddoub: 0,
